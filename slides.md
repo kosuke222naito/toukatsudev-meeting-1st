@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: ./images/anbai_katsu.png
+background: /anbai_katsu.png
 title: 東葛.dev #1
 info: |
   ## 東葛.dev #1
