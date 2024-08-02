@@ -110,10 +110,6 @@ const qrcode = useQRCode("https://discord.gg/uW4XTB2p8y");
 </script>
 
 <style>
-h1 {
-  color: red;
-}
-
 .discord {
   color: #5865F2;
   font-size: 2rem;
