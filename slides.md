@@ -57,15 +57,16 @@ url: https://www.pref.chiba.lg.jp/kc-toukatsu/gaiyou.html
 
 お集まりいただきありがとうございます
 
-- 主催者: hk(kouno)  <a href="https://x.com/hk_it7" target="_blank" rel="noopener noreferrer"><logos-twitter /></a>
+- 主催者: hk(kouno) <a href="https://x.com/hk_it7" target="_blank" rel="noopener noreferrer"><logos-twitter /></a>
 
 <img src="/images/kouno.jpg" w-30 mt-5 ml-10/>
 
 <br />
 
-- にぎやかし: ナイトウ  <a href="https://x.com/engineer_naito" target="_blank" rel="noopener noreferrer"><logos-twitter /></a>
+- にぎやかし: ナイトウ <a href="https://x.com/engineer_naito" target="_blank" rel="noopener noreferrer"><logos-twitter /></a>
 
 <img src="/images/naito.jpg" w-30 mt-5 ml-10/>
+
 ---
 transition: fade-out
 layout: two-cols
@@ -198,6 +199,41 @@ transition: fade-out
 ---
 
 # LT
+
+- kii310 さん <a href="https://x.com/kii310_nyan" target="_blank" rel="noopener noreferrer"><logos-twitter /></a>
+
+<img src="/images/kii310.jpg" w-30 mt-5 ml-10/>
+
+<br />
+
+- tyamahori さん <a href="https://x.com/tyamahori" target="_blank" rel="noopener noreferrer"><logos-twitter /></a>
+
+<img src="/images/tyamahori.jpg" w-30 mt-5 ml-10/>
+
+<div
+  text-5xl
+  absolute
+  bottom-10
+  right-10
+>
+  ~ 17:00
+</div>
+
+---
+transition: fade-out
+---
+
+# LT
+
+- ナイトウ <a href="https://x.com/engineer_naito" target="_blank" rel="noopener noreferrer"><logos-twitter /></a>
+
+<img src="/images/naito.jpg" w-30 mt-5 ml-10/>
+
+<br />
+
+- hk(kouno) <a href="https://x.com/hk_it7" target="_blank" rel="noopener noreferrer"><logos-twitter /></a>
+
+<img src="/images/kouno.jpg" w-30 mt-5 ml-10/>
 
 <div
   text-5xl
