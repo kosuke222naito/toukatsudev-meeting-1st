@@ -98,8 +98,8 @@ layout: two-cols
   alt="QR Code"
   w-64
   absolute
-  right-50
-  bottom-50
+  right-40
+  bottom-40
 />
 
 <script setup>
@@ -163,7 +163,28 @@ Interaction Round Table
 
 ::right::
 
-<img :src="qrcode" alt="QR Code" w-64/>
+
+<div mt-15>
+  <div>IRT #とは</div>
+  <a
+    text-xs
+    href="https://blog.phperkaigi.jp/2020/02/07/interactive-round-table/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    https://blog.phperkaigi.jp/2020/02/07/interactive-round-table/
+  </a>
+  <img :src="qrcode" alt="QR Code" w-64 ml-15 mt-5/>
+</div>
+
+<div
+  text-5xl
+  absolute
+  bottom-10
+  right-10
+>
+  ~ 16:00
+</div>
 
 <script setup>
 import { useQRCode } from "@vueuse/integrations/useQRCode";
@@ -177,6 +198,15 @@ transition: fade-out
 ---
 
 # LT
+
+<div
+  text-5xl
+  absolute
+  bottom-10
+  right-10
+>
+  ~ 17:00
+</div>
 
 ---
 transition: fade-out
